@@ -1,0 +1,4 @@
+# iRacing Overlay Dependencies
+pyirsdk>=1.0.0  # iRacing SDK for telemetry data
+Pillow>=10.0.0  # Image processing for overlays
+pystray>=0.19.0  # System tray icon support
